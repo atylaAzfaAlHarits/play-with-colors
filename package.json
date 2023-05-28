@@ -1,0 +1,11 @@
+{
+  "name": "play-with-colors",
+  "version": "1.0.0",
+  "description": "empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atyla Azfa Al Harits",
+  "license": "ISC"
+}
